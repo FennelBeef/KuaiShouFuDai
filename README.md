@@ -3,5 +3,4 @@
 需要依赖：
 adbutils
 paddleocr
-
 喜欢的话点点Star吧！
