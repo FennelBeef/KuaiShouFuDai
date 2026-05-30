@@ -15,6 +15,12 @@
 
 - adbutils
 - paddleocr
+- cv2
+
+电脑端需安装abd环境：
+
+- platform-tools
+ https://developer.android.google.cn/tools/releases/platform-tools?hl=zh-cn
 
 未来方向:
 
